@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "66cfef91902c4600",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cf8ee09a2a41fcf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "create a link.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "create a link"
+              "title": "Untitled"
             }
           }
         ]
@@ -203,10 +183,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "6d0a13c378e15194",
+  "active": "4ccad465a1c638fa",
   "lastOpenFiles": [
-    "create a link.md",
+    "2026-07-02.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled.base",
+    "README.md",
     "Welcome.md",
+    "create a link.md",
     "desktop.ini"
   ]
 }
