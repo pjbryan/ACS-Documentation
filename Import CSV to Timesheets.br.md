@@ -1,6 +1,3 @@
-- Import and files
-- Line 24-26 of import CSVtoTimesheets.br
-- .brs are snippets of code that does not compile
-- .br.brs are complete programs
-- .br are executables
-- 
+- Download and import files (file scraping)
+- Line 24-26 of import CSV toTimesheets.br
+- C:\ACS\Dev-5\Client Billing
